@@ -18,3 +18,8 @@ Redesign your pesonal website to showcase your work and skills in a visually app
 Focus on improving the layout,navigationand visual design to  create a professional and engaging user experience.
 
 Software Used: FIGMA Website
+
+
+UI/UX Design Prototype Task 1
+
+https://www.figma.com/proto/ZmrFq0fMIm3HBs0qME0SBv/Task-1-Portfolio?t=Utrf0fNUryXUr4WR-1&node-id=1-2&starting-point-node-id=1%3A2
