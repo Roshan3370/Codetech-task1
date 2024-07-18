@@ -1,10 +1,15 @@
 # Codetech-task1
 
 Name:Roshan Kumar
+
 Company:CODTECH IT SOLUTIONS
-ID:CT08DS3150   
+
+ID:CT08DS3150  
+
 Domain:UI/UX Design
+
 Duration:25 June 2024 to 25 July 2024
+
 Mentor:Neela Santosh Kumar
 
 
